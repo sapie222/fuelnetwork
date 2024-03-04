@@ -4,7 +4,7 @@
         <img alt="SwayApps TicTacToe Logo" width="400px" src=".docs/tictactoe-logo-light-theme.png">
     </picture>
 </p>
-sdfsdfre44b4bfhhf5d
+sdfsdfre44b4bfhhf
 <p align="center">
     <a href="https://crates.io/crates/forc/0.42.1" alt="forc">
         <img src="https://img.shields.io/badge/forc-v0.42.1-orange" />
